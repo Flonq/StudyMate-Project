@@ -1,2 +1,2 @@
-# StudyMate Project
-The StudyMate project is an AI-powered schedule tracking application that I worked on during my university career.
+# StudyMate Mobile
+StudyMate Mobile is the component of the project that I am working on to ensure its usability through a mobile interface.
